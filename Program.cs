@@ -21,6 +21,9 @@ namespace CTCI
             //1.5
             Console.WriteLine(OneAway.IsStringOneAway("pale", "bale"));
 
+            //1.6
+            Console.WriteLine(StringCompression.Compress("aabcccccaa"));
+            Console.WriteLine(StringCompression.Compress("aaAAAAbbcc"));
         }
     }
 }
