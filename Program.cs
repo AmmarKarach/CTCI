@@ -12,7 +12,12 @@ namespace CTCI
             //1.2
             Console.WriteLine(CheckPermuatations.Check("aba","aab"));
 
-            
+            //1.3
+            Console.WriteLine(Urlify.UrlifyString("Mr John Smith     "));
+
+            //1.4
+            Console.WriteLine(PalindromePermuation.Check("Tact Coa"));
+
         }
     }
 }
