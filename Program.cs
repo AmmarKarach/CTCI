@@ -8,6 +8,11 @@ namespace CTCI
         {
             //1.1
             Console.WriteLine(UniqueString.StringWithUniqueCharacters("ab"));
+
+            //1.2
+            Console.WriteLine(CheckPermuatations.Check("aba","aab"));
+
+            
         }
     }
 }
