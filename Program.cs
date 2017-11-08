@@ -18,6 +18,9 @@ namespace CTCI
             //1.4
             Console.WriteLine(PalindromePermuation.Check("Tact Coa"));
 
+            //1.5
+            Console.WriteLine(OneAway.IsStringOneAway("pale", "bale"));
+
         }
     }
 }
